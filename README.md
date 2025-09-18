@@ -82,7 +82,8 @@ Explora todas las funcionalidades del sistema en este tutorial interactivo que m
 
 ### Paso 1: Clonar el Repositorio
 ```bash
-
+git clone https://github.com/lisandrokokuba-dot/cine.git
+cd cine
 ```
 
 ### Paso 2: Crear Entorno Virtual (Recomendado)
@@ -279,5 +280,6 @@ Lisandro Akira Kokuba
 ---
 
 *¡Gracias por explorar Academia Cinematográfica! 🎬*
+
 
 
