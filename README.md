@@ -64,9 +64,7 @@ Proyecto desarrollado como parte del curso de Python de **Coderhouse**, demostra
 
 ## 🎬 Demostración en Vivo
 
-[![Video Demo](https://img.shields.io/badge/🎥_Ver_Demostración-YouTube-red.svg)](https://youtu.be/K9m79TUW740)
-
-**🎥 [Ver Video Explicativo Completo](https://youtu.be/K9m79TUW740)**
+**🎥 [Ver Video Explicativo Completo](https://www.youtube.com/watch?v=oKaojq4eJsk)**
 
 Explora todas las funcionalidades del sistema en este tutorial interactivo que muestra:
 - Navegación completa por la plataforma
@@ -84,8 +82,7 @@ Explora todas las funcionalidades del sistema en este tutorial interactivo que m
 
 ### Paso 1: Clonar el Repositorio
 ```bash
-git clone https://github.com/nmdoyhenart/TuPrimerPaginaDoyhenart.git
-cd TuPrimerPaginaDoyhenart
+
 ```
 
 ### Paso 2: Crear Entorno Virtual (Recomendado)
@@ -258,9 +255,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ## 👨‍💻 Autor
 
-**Proyecto Académico - Curso Python Coderhouse**
-
-*Implementación de mejores prácticas en desarrollo web con Django*
+Lisandro Akira Kokuba
 
 ---
 
@@ -284,4 +279,5 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 ---
 
 *¡Gracias por explorar Academia Cinematográfica! 🎬*
+
 
